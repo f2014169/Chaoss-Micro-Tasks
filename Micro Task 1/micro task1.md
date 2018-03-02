@@ -3,6 +3,6 @@
 
 Please change the necessary parameters in micro_1.py and run using **python3 micro_1.py**
 
-I've tested the code using [chaoss mordred repository](https://github.com/chaoss/grimoirelab-mordred.git repository)
+I've tested the code using [chaoss mordred repository](https://github.com/chaoss/grimoirelab-mordred.git)
 
 I've also atached the resulting csv files
